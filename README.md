@@ -19,4 +19,4 @@ Steps -
 
 7. Get top - K ( K = 5) recommendations. Since our goal is to recommend new products to each user based on his/her habits, we will recommend 5 new products.
 
-8. Summarise your insights.
+
